@@ -16,11 +16,11 @@ vocab.txt
 
 ## 正确的文件路径
 
-main
-——bert-base-chinese
-————config.json
-————pytorch_model.bin
-————tokenizer.json
-————vocab.txt
-——Bert微调.ipynb
-——ChnSentiCorp.txt
+main\
+——bert-base-chinese\
+————config.json\
+————pytorch_model.bin\
+————tokenizer.json\
+————vocab.txt\
+——Bert微调.ipynb\
+——ChnSentiCorp.txt\

@@ -3,7 +3,7 @@
 ## 下载预训练模型
 从官网下载模型
 https://huggingface.co/bert-base-chinese
-至少下载其中的四个文件
+至少下载其中的四个文件\
 config.json  
 pytorch_model.bin  
 tokenizer.json  

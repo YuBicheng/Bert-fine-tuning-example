@@ -12,3 +12,12 @@ vocab.txt
 训练集总共7000多条数据 5000正样本
 应将正负样本平衡
 而且实际上bert只需要200多条数据就可以很好的拟合，所以将数据集缩小到适合自己设备大小可以有效缩减训练用时，这里留给你们自己调整
+##正确的文件路径
+main
+-bert-base-chinese
+--config.json
+--pytorch_model.bin
+--tokenizer.json
+--vocab.txt
+-Bert微调.ipynb
+-ChnSentiCorp.txt

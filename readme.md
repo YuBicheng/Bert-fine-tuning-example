@@ -23,4 +23,4 @@ main\
 ————tokenizer.json\
 ————vocab.txt\
 ——Bert微调.ipynb\
-——ChnSentiCorp.txt\
+——ChnSentiCorp.txt
